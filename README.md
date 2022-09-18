@@ -1,5 +1,3 @@
-### Hi, my name is Tomásia 👋
-
 <!--
 **tomasiamcm/tomasiamcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, my name is Tomásia and I am a student in Technology.
+# Hello, my name is Tomásia and I am a student in Technology.👋
 In 2016 I started to venture into SQL Server out of need of work and, since 2021, I decided to dedicate myself to learning programming, but over the last 15 years I have been able to participate in systems deployment projects, functional specification, tests and development approval and systemic improvement.
 
 
