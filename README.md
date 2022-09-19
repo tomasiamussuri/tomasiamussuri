@@ -4,8 +4,8 @@ In 2016 I started to venture into SQL Server out of need of work and, since 2021
 
 ### Profile <!-- Perfil -->
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasiamcm&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=180em />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasiamcm&layout=compact&langs_count=7&theme=buefy" height=180em />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasiamcm&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasiamcm&layout=compact&langs_count=7&theme=buefy" height=200em />
 </div>
  
 ### My Skills <!-- Minhas Habilidades -->
