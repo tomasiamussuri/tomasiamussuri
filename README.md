@@ -1,4 +1,4 @@
-# ✨Hello, my name is Tomásia and I am a Data Analyst and Developer✨
+# ✨Hello, my name is Tomásia and I am a Developer✨
 In 2016 I started to venture into SQL Server out of need of work and, since 2021, I decided to dedicate myself to learning programming, but over the last 15 years I have been able to participate in systems deployment projects, functional specification, tests and development approval and systemic improvement.
 
 
