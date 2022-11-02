@@ -10,8 +10,7 @@ In 2016 I started to venture into SQL Server out of need of work and, since 2021
  
 ### My Skills <!-- Minhas Habilidades -->
   <img alt="Git" src="https://cdn-icons-png.flaticon.com/128/4926/4926624.png" width=40 height=40 /> <img alt="SQL Server"
-src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width=40 height=40 /> 
-<img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width=40 height=40 /> 
+src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width=40 height=40 /> <img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width=40 height=40 /> <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width=40 height=40 /> <img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width=40 height=40 /> <img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width=40 height=40 /> 
 
 ### I’m currently learning <!-- Estou estudando no momento -->
 <img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width=40 height=40 /> <img alt="HTML"
