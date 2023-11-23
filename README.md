@@ -13,7 +13,7 @@ In 2016 I started to venture into SQL Server out of need of work and, since 2021
 src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width=40 height=40 /> <img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width=40 height=40 /> <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width=40 height=40 /> <img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width=40 height=40 /> <img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width=40 height=40 /> 
 
 ### I’m currently learning <!-- Estou estudando no momento -->
-  <img alt = "Java" src="https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=2&origin=search&related_id=5968282"  width=40 height=40 /> <img alt="Python" 
+  <img alt = "Java" src="https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=2&origin=tag&related_id=5968282.png"  width=40 height=40 /> <img alt="Python" 
 src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width=40 height=40 /> <img alt="HTML" 
 src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width=40 height=40 /> <img alt="CSS" 
 src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width=40 height=40 /> <img alt="JavaScript"
