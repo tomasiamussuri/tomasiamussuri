@@ -1,4 +1,4 @@
-# ✨Hello, my name is Tomásia and I am a Developer✨
+# ✨Olá, meu nome é Tomásia e fiz migração de carreira para área de tecnologia✨
 Em 2016 comecei a me aventurar com SQL Server por necessidade de trabalho e, em 2021 resolvi fazer transição de carreira para área de tecnologia. Nos últimos 15 anos participei de projetos de implantação de sistemas, especificação funcional, testes e homologação de sistemas visando melhoria continua.
 
 ### Profile <!-- Perfil -->
