@@ -1,6 +1,5 @@
 # ✨Hello, my name is Tomásia and I am a Developer✨
-In 2016 I started to venture into SQL Server out of need of work and, since 2021, I decided to dedicate myself to learning programming, but over the last 15 years I have been able to participate in systems deployment projects, functional specification, tests and development approval and systemic improvement.
-
+Em 2016 comecei a me aventurar com SQL Server por necessidade de trabalho e, em 2021 resolvi fazer transição de carreira para área de tecnologia. Nos últimos 15 anos participei de projetos de implantação de sistemas, especificação funcional, testes e homologação de sistemas visando melhoria continua.
 
 ### Profile <!-- Perfil -->
 <div align=center>
@@ -13,7 +12,7 @@ In 2016 I started to venture into SQL Server out of need of work and, since 2021
 src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width=40 height=40 /> <img alt="Python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width=40 height=40 /> <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width=40 height=40 /> <img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width=40 height=40 /> <img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width=40 height=40 /> 
 
 ### I’m currently learning <!-- Estou estudando no momento -->
-  <img alt = "Java" src="https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=2&origin=tag&related_id=5968282.png"  width=40 height=40 /> <img alt="Python" 
+  <img alt = "Java" src="https://images.app.goo.gl/qZqyw8Gu8yawhgLYA" width=40 height=40 /> <img alt="Python" 
 src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width=40 height=40 /> <img alt="HTML" 
 src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width=40 height=40 /> <img alt="CSS" 
 src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width=40 height=40 /> <img alt="JavaScript"
